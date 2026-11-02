@@ -65,12 +65,12 @@ docs/data-dictionary.xlsx
 - Delivered interactive Power BI dashboards
 - Referential integrity in star schema
 
-## Documentation  (files YOU CREATE — not pre-built reference links)
+## Documentation  
 
-- Technical Runbook  →  docs/technical-runbook.md       (Task 9 §3)
-- User Guide         →  docs/user-guide.md              (Task 9 §4)
-- Architecture       →  docs/architecture-diagram.png   (Task 9 §1)
-- Data Dictionary    →  docs/data-dictionary.xlsx       (Task 9 §2)
+- Technical Runbook  →  docs/technical-runbook.md       
+- User Guide         →  docs/user-guide.md              
+- Architecture       →  docs/architecture-diagram.png   
+- Data Dictionary    →  docs/data-dictionary.xlsx      
 
 ## Demo
 
@@ -79,4 +79,4 @@ Presentation (YOU CREATE in Task 9 §5): docs/demo-presentation.pptx
 
 ## Contact
 
-Your Name | your.email@example.com
+Your Name | abaan1ink@gmail.com
