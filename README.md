@@ -19,7 +19,7 @@ Key Features:
 
 json Files → Python ETL → MySQL (noodles_dw) → Power BI Dashboards
 
-Architecture diagram (YOU CREATE in Task 9 §1):
+Architecture diagram:
 docs/architecture-diagram.png
 
 ## Technology Stack
@@ -48,7 +48,7 @@ noodles-analytics/
 Dimensions: DimCurrency, DimDate, DimPlatform
 Facts: FactSocialEngagement
 
-Data dictionary (YOU CREATE in Task 9 §2):
+Data dictionary:
 docs/data-dictionary.xlsx
 
 ## Key Insights
