@@ -74,8 +74,8 @@ docs/data-dictionary.xlsx
 
 ## Demo
 
-Demo video URL: https://youtu.be/your-video-id
-Presentation (YOU CREATE in Task 9 §5): docs/demo-presentation.pptx
+Demo video URL: https://youtu.be/-LNwsR3Ta-o
+Presentation: docs/demo-presentation.pptx
 
 ## Contact
 
