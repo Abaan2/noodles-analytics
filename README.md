@@ -34,8 +34,8 @@ docs/architecture-diagram.png
 noodles-analytics/
 ├── 05_data_warehouse_design.ipynb
 ├── 06_powerbi_prep.ipynb
-├── reports/          (Tasks 7–8 .pbix files)
-├── docs/             ← YOU CREATE in Task 9
+├── reports/          
+├── docs/             
 │   ├── architecture-diagram.png    ← §1
 │   ├── data-dictionary.xlsx        ← §2
 │   ├── technical-runbook.md        ← §3
